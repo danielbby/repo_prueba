@@ -1,1 +1,3 @@
-Este archivo va en un branch
+Este archivo va en un branch.
+
+Ya fue hecho merge into master
